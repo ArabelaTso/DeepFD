@@ -1,0 +1,41 @@
+Process ./Evaluations/case_fixed/59282996
+folder_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/case_fixed/59282996/origin
+list dir: ['repair.py', 'repair1.py', 'dataset.pkl', 'config.pkl', 'model.h5', 'lineno.txt', 'origin.py', 'repair2.py', 'iter_1', 'iter_2', 'iter_3', 'iter_4', 'iter_5', 'iter_6', 'iter_7', 'iter_8', 'iter_9']
+model_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/case_fixed/59282996/origin/model.h5
+config_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/case_fixed/59282996/origin/config.pkl
+{'optimizer': 'sgd', 'loss': 'sparse_categorical_crossentropy', 'dataset': 'customized', 'epoch': 10, 'batchsize': 20, 'callbacks': [], 'opt_kwargs': {'lr': 0.01}}
+loading customized dataset
+Existing iter: 9
+Continue iteration
+iter_10 /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/case_fixed/59282996/origin/iter_10/result_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/case_fixed/59282996/origin/iter_10/log_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/case_fixed/59282996/origin/iter_10/new_issue
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Finished Training

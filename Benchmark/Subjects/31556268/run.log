@@ -1,0 +1,23 @@
+Process ./Evaluations/Subjects/31556268
+folder_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/Subjects/31556268/loss_mse__opt_adam
+list dir: ['repair.py', 'dataset.pkl', '.DS_Store', 'config.pkl', 'model.h5', 'lineno.txt', 'origin.py', 'iter_1', 'iter_2', 'iter_3', 'iter_4', 'iter_5', 'iter_6', 'iter_7', 'iter_8', 'iter_9']
+model_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/Subjects/31556268/loss_mse__opt_adam/model.h5
+config_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/Subjects/31556268/loss_mse__opt_adam/config.pkl
+{'optimizer': 'sgd', 'loss': 'mean_absolute_error', 'dataset': 'customized', 'epoch': 1000, 'batchsize': 4, 'callbacks': [], 'opt_kwargs': {'lr': 0.01}}
+loading customized dataset
+Existing iter: 9
+Continue iteration
+iter_10 /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/Subjects/31556268/loss_mse__opt_adam/iter_10/result_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/Subjects/31556268/loss_mse__opt_adam/iter_10/log_dir /data/ziniu/ASE2021/DeepFD/DeepFD/Evaluations/Subjects/31556268/loss_mse__opt_adam/iter_10/new_issue
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Time for gradient: 0.00
+Time for weight: 0.00
+Time for loss: 0.00
+Finished Training

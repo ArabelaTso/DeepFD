@@ -1,0 +1,11 @@
+checktype,current_epoch,issue_list,time_usage,Describe
+batch,0,[],3.1448757648468018,No Issue now
+batch,0,[],3.2899742126464844,No Issue now
+batch,0,['unstable'],3.3087902069091797,Found Issue Stop Training! Starting the repair procedure.
+batch,0,['unstable'],3.3283872604370117,Found Issue Stop Training! Starting the repair procedure.
+batch,0,['unstable'],3.3471462726593018,Found Issue Stop Training! Starting the repair procedure.
+batch,0,['unstable'],3.365135669708252,Found Issue Stop Training! Starting the repair procedure.
+batch,0,['unstable'],3.38893723487854,Found Issue Stop Training! Starting the repair procedure.
+batch,0,['unstable'],3.41481876373291,Found Issue Stop Training! Starting the repair procedure.
+batch,0,['unstable'],3.440463066101074,Found Issue Stop Training! Starting the repair procedure.
+batch,0,['unstable'],3.4657435417175293,Found Issue Stop Training! Starting the repair procedure.
