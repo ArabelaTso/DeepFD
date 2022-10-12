@@ -190,7 +190,7 @@ if __name__ == '__main__':
         predictList = np.array(predictList)
         modelPredictList.append(predictList)
 
-        for i in range(iter_num, N, iter_num):
+        for i in range(0, N, iter_num):
             predict = predictList[:, i:i + iter_num, :]  # shape of predict: [n_classifier, iter, 5]
             predict_sum = np.sum(predict, axis=1)  # shape of predict_sum: [n_classifier, 5]
             print("{}\nWorking on case: ".format("=" * 20, (i / 9)))
